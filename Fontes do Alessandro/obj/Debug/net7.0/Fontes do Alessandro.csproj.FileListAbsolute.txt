@@ -1,0 +1,15 @@
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\bin\Debug\net7.0\Fontes do Alessandro.exe
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\bin\Debug\net7.0\Fontes do Alessandro.deps.json
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\bin\Debug\net7.0\Fontes do Alessandro.runtimeconfig.json
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\bin\Debug\net7.0\Fontes do Alessandro.dll
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\bin\Debug\net7.0\Fontes do Alessandro.pdb
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\obj\Debug\net7.0\Fontes do Alessandro.csproj.AssemblyReference.cache
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\obj\Debug\net7.0\Fontes do Alessandro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\obj\Debug\net7.0\Fontes do Alessandro.AssemblyInfoInputs.cache
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\obj\Debug\net7.0\Fontes do Alessandro.AssemblyInfo.cs
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\obj\Debug\net7.0\Fontes do Alessandro.csproj.CoreCompileInputs.cache
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\obj\Debug\net7.0\Fontes do Alessandro.dll
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\obj\Debug\net7.0\refint\Fontes do Alessandro.dll
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\obj\Debug\net7.0\Fontes do Alessandro.pdb
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\obj\Debug\net7.0\Fontes do Alessandro.genruntimeconfig.cache
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes do Alessandro\obj\Debug\net7.0\ref\Fontes do Alessandro.dll
