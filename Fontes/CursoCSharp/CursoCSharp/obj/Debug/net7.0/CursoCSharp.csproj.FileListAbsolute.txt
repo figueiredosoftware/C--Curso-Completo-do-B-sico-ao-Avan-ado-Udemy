@@ -1,0 +1,15 @@
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\bin\Debug\net7.0\CursoCSharp.exe
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\bin\Debug\net7.0\CursoCSharp.deps.json
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\bin\Debug\net7.0\CursoCSharp.runtimeconfig.json
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\bin\Debug\net7.0\CursoCSharp.dll
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\bin\Debug\net7.0\CursoCSharp.pdb
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.AssemblyInfo.cs
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.dll
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\obj\Debug\net7.0\refint\CursoCSharp.dll
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.pdb
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.genruntimeconfig.cache
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp\CursoCSharp\obj\Debug\net7.0\ref\CursoCSharp.dll

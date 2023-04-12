@@ -1,0 +1,8 @@
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp2\CursoCSharp2\obj\Debug\CursoCSharp2.csproj.AssemblyReference.cache
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp2\CursoCSharp2\obj\Debug\CursoCSharp2.csproj.SuggestedBindingRedirects.cache
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp2\CursoCSharp2\obj\Debug\CursoCSharp2.csproj.CoreCompileInputs.cache
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp2\CursoCSharp2\bin\Debug\CursoCSharp2.exe.config
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp2\CursoCSharp2\bin\Debug\CursoCSharp2.exe
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp2\CursoCSharp2\bin\Debug\CursoCSharp2.pdb
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp2\CursoCSharp2\obj\Debug\CursoCSharp2.exe
+C:\Alessandro\Fontes\C--Curso-Completo-do-B-sico-ao-Avan-ado-Udemy\Fontes\CursoCSharp2\CursoCSharp2\obj\Debug\CursoCSharp2.pdb
